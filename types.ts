@@ -1,0 +1,1 @@
+// Define necessary types in one or multiple types.ts files
